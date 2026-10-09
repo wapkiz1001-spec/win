@@ -1,1 +1,31 @@
-
+{
+    "licenses": {
+        "PK-L2K2-AY35-6A82": {
+            "key": "PK-L2K2-AY35-6A82",
+            "status": "active",
+            "expires_at": "2027-12-31",
+            "domains": [
+                "winbet99.online",
+                "www.winbet99.online"
+            ],
+            "install_id": "",
+            "note": "winbet99",
+            "nonce": "",
+            "sig": "38c631245c7ab963b8ba0cc0a2cf5967b834343400333e7f19c01b2b762cb764"
+        },
+        "PK-CSFW-CYEN-USN2": {
+            "key": "PK-CSFW-CYEN-USN2",
+            "status": "active",
+            "expires_at": "2027-12-31",
+            "domains": [
+                "apnar-site.com",
+                "www.apnar-site.com"
+            ],
+            "install_id": "",
+            "note": "apnar-site",
+            "nonce": "",
+            "sig": "bf07a25c8f76088b0989a003a9667f43d666696eb75fd2c82ffa2439c026bfe3"
+        }
+    },
+    "generated_at": "2026-10-09T03:50:54+00:00"
+}
