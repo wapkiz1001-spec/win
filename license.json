@@ -1,13 +1,16 @@
 {
-  "status": "active",
-  "domains": [
-    "gpk444.com",
-    "www.gpk444.com",
-    "apnar-site.com",
-    "www.apnar-site.com",
-    "notun-site1.com",
-    "www.notun-site1.com",
-    "notun-site2.net",
-    "www.notun-site2.net"
-  ]
+  "status": true,
+  "data": {
+    "active": true,
+    "domains": [
+      "gpk444.com",
+      "www.gpk444.com",
+      "apnar-site.com",
+      "www.apnar-site.com",
+      "notun-site1.com",
+      "www.notun-site1.com",
+      "notun-site2.net",
+      "www.notun-site2.net"
+    ]
+  }
 }
